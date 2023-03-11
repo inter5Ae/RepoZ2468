@@ -1,0 +1,15 @@
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\bin\Debug\net6.0\RepoZ2468.exe
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\bin\Debug\net6.0\RepoZ2468.deps.json
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\bin\Debug\net6.0\RepoZ2468.runtimeconfig.json
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\bin\Debug\net6.0\RepoZ2468.dll
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\bin\Debug\net6.0\RepoZ2468.pdb
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\obj\Debug\net6.0\RepoZ2468.csproj.AssemblyReference.cache
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\obj\Debug\net6.0\RepoZ2468.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\obj\Debug\net6.0\RepoZ2468.AssemblyInfoInputs.cache
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\obj\Debug\net6.0\RepoZ2468.AssemblyInfo.cs
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\obj\Debug\net6.0\RepoZ2468.csproj.CoreCompileInputs.cache
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\obj\Debug\net6.0\RepoZ2468.dll
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\obj\Debug\net6.0\refint\RepoZ2468.dll
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\obj\Debug\net6.0\RepoZ2468.pdb
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\obj\Debug\net6.0\RepoZ2468.genruntimeconfig.cache
+C:\Users\manar\Desktop\Git\Dom-Zadanie\RepoZ2468\obj\Debug\net6.0\ref\RepoZ2468.dll

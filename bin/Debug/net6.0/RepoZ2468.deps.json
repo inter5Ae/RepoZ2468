@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RepoZ2468/1.0.0": {
+        "runtime": {
+          "RepoZ2468.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepoZ2468/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
